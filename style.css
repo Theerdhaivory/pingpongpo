@@ -1,0 +1,27 @@
+.body_background 
+{
+    background-position: center;
+    background-size:cover;
+	background:url(winter-frosty-forest-with-frozen-trees_86390-3280.avif);
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:rgb(26, 182, 225);
+}
+
+
+#hd3{
+	display: inline-block;
+	color: black;
+	background-color: aliceblue;
+	font-family: serif;
+}
+p{
+	background-color: aliceblue;
+	font-size: 15pt;
+}
+h1{
+	align:center;
+}
